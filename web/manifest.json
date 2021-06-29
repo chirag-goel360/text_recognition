@@ -1,6 +1,6 @@
 {
-    "name": "test_recognition",
-    "short_name": "test_recognition",
+    "name": "text_recognition",
+    "short_name": "text_recognition",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

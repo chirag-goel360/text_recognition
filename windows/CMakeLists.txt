@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(test_recognition LANGUAGES CXX)
+project(text_recognition LANGUAGES CXX)
 
-set(BINARY_NAME "test_recognition")
+set(BINARY_NAME "text_recognition")
 
 cmake_policy(SET CMP0063 NEW)
 

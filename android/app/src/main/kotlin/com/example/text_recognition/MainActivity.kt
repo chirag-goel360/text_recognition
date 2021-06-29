@@ -1,4 +1,4 @@
-package com.example.test_recognition
+package com.example.text_recognition
 
 import io.flutter.embedding.android.FlutterActivity
 
